@@ -1,0 +1,14 @@
+
+touch archivo2.txt
+
+
+
+[A[A[A[A[A[A[A[B
+
+
+[A[A[A
+[A[A
+
+
+
+git status
