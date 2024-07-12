@@ -1,4 +1,4 @@
-
+	modificando el archivo
 touch archivo2.txt
 
 
